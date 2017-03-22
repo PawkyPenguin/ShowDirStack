@@ -2,6 +2,8 @@
 
 ShowsDirStack is a very small script that displays the directory stack (`dirs -p`) in a nice way. It is intended to be used with oh-my-zsh.
 
+![showDirStack.jpg](showDirStack.jpg)
+
 To install, first clone the repository. Then, browse to your oh-my-zsh themes folder and open the file containing the theme you use. There should be an environment variable defined in your `.zshrc` or somewhere similar that's called `ZSH_THEME` if you don't know what theme you're using. It's probably easiest to just use this command:
 
 `vim "$ZSH/themes/$ZSH_THEME.zsh-theme"`
