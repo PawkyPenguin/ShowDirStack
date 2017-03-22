@@ -22,9 +22,9 @@ Of course, make sure to replace the above path to showDirStack.sh with the actua
 
 By the way, I *highly* recommend adding the following aliases to your `.zshrc`:
 
-`alias 0='cd -1'
-alias 1='cd -2'
-alias 2='cd -3'
-alias 3='cd -4'`
+`alias 0='cd -1'`
+`alias 1='cd -2'`
+`alias 2='cd -3'`
+`alias 3='cd -4'`
 
 This will make life amazing, because you can now navigate to the directories shown by showDirStack very easily. Ever had to go to a directory you were at half a minute ago and had to painstakingly navigate back to it? Yeah, those days are over.
