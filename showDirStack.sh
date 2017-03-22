@@ -1,19 +1,5 @@
 #! /bin/sh
 
-#    This program is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU General Public License as published by
-#    the Free Software Foundation, either version 3 of the License, or
-#    (at your option) any later version.
-#
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU General Public License for more details.
-#
-#    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-
 # Displays the directory stack (dirs -p) in a nice way. Intended for use with oh-my-zsh.
 
 # color1 and color2 are the colors with which the string is printed. The color alternates with each dirstack entry. end_color is the color that is appended to the end of the string (this is useful when this script is used as a command prompt, for example). 
